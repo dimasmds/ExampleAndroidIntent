@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyIntentApps</string>
+    <string name="change_activity">Pindah Activity</string>
+    <string name="this_is_move_activtiy">This is move activtiy</string>
+    <string name="change_activity_with_data">Pindah activity dengan data</string>
+    <string name="change_activity_with_object">Pindah Activity dengan Objek</string>
+    <string name="change_activity_intent_explicit">Pindah activity dengan intent eksplicit</string>
+    <string name="choose_number">Pilih Angka</string>
+    <string name="_50">50</string>
+    <string name="_150">150</string>
+    <string name="_100">100</string>
+    <string name="_200">200</string>
+    <string name="choose">pilih</string>
+</resources>
